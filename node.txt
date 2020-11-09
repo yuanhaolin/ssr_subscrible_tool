@@ -1,7 +1,7 @@
 # 节点列表
 
-# jo.香港节点1
-ssr://MzQuOTIuMjEwLjIwODoyMzMzOmF1dGhfc2hhMV92NDphZXMtMTI4LWN0cjpwbGFpbjpaRzkxWWk1cGJ3
+# jo.谷歌香港节点1
+ss://YWVzLTEyOC1jdHI6ZG91Yi5pb0AzNC45Mi4yMTAuMjA4OjIzMzM
 
-# jo.东京节点1
-ssr://MzQuODUuMy4xOTA6MjMzMzphdXRoX3NoYTFfdjQ6YWVzLTEyOC1jdHI6cGxhaW46Wkc5MVlpNXBidw
+# jo.谷歌东京节点1
+ss://YWVzLTEyOC1jdHI6ZG91Yi5pb0AzNC44NS4zLjE5MDoyMzMz
