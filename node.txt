@@ -5,4 +5,4 @@ ssr://MzQuOTIuMjEwLjIwODoyMzMzOmF1dGhfc2hhMV92NDphZXMtMTI4LWN0cjpwbGFpbjpaRzkxWW
 
 
 # jo.腾讯云香港节点2
-ssr://MTI5LjIyNi4xMTguMjM0OjIzMzM6YXV0aF9zaGExX3Y0OmFlcy0xMjgtY3RyOnBsYWluOlpHOTFZaTVwYncvP29iZnNwYXJhbT0mcmVtYXJrcz1Tazg
+ss://YWVzLTEyOC1jdHI6ZG91Yi5pb0AxMjkuMjI2LjExOC4yMzQ6MjMzMw
