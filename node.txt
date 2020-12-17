@@ -3,6 +3,3 @@
 # jo.谷歌香港节点1
 ssr://MzQuOTIuMjEwLjIwODoyMzMzOmF1dGhfc2hhMV92NDphZXMtMTI4LWN0cjpwbGFpbjpaRzkxWWk1cGJ3Lz9vYmZzcGFyYW09JnJlbWFya3M9NmFhWjVyaXZNREF4Jmdyb3VwPVNrOA
 
-
-# jo.香港节点2
-ssr://MTI5LjIyNi4xMTguMjM0OjIzMzM6b3JpZ2luOmFlcy0xMjgtY3RyOnBsYWluOlpHOTFZaTVwYncvP29iZnNwYXJhbT0mcmVtYXJrcz02YWFaNXJpdklEQXdNaUEmZ3JvdXA9U2s4
